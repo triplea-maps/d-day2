@@ -1,0 +1,3 @@
+map_name: d-day2
+games:
+- {game_name: D-Day 2, file_name: D-Day_2.xml}
